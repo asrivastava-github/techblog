@@ -1,3 +1,6 @@
 **__pycache__
 **.vscode
 **.pyc
+**.log
+.DS_Store
+.idea/

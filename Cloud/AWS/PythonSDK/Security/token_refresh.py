@@ -63,4 +63,4 @@ class Application:
 
 if __name__ == '__main__':
     # I am taking an example of s3 client
-    app_instance = Application(service='s3', client_timeout=5)
+    app_instance = Application(service='s3')
